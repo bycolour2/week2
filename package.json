@@ -5,8 +5,8 @@
     "node": "10.19.0"
   },
   "main": "index.js",
-  "repository": "https://github.com/flatdragon/final-001.git",
-  "author": "Andrew Kochetygov",
+  "repository": "https://github.com/bycolour2/week1",
+  "author": "Rustam Kutlakhmetov",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
